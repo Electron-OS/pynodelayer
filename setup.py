@@ -3,13 +3,13 @@ from distutils.core import setup
 setup(
   name = 'pynodelayer',
   packages = ['pynodelayer'],
-  version = '0.1',
+  version = '0.0.2',
   license='MIT',
   description = 'PyNode Layer library',
   author = 'Morteza Jamali',
   author_email = 'mortezajamali4241@gmail.com',
   url = 'https://github.com/Electron-OS/pynodelayer',
-  download_url = 'https://github.com/Electron-OS/pynodelayer/archive/v0.0.1-alpha.tar.gz',
+  download_url = 'https://github.com/Electron-OS/pynodelayer/archive/v0.0.2-alpha.tar.gz',
   keywords = ['System' , 'Linux' , 'Library' , 'pynodelayer' , 'socket layer'],
   install_requires=[],
   classifiers=[
